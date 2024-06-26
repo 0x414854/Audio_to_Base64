@@ -39,7 +39,7 @@ Make sure you have [Python](https://www.python.org/downloads/) installed on your
 - Follow the prompts to specify the path to your audio file (MP3 or WAV).
 - The Base64 data URI string will be **displayed** and **copied to your clipboard**.
 - A text file containing the Base64 string will be saved in the specified directory.
-- 
+  
 ## Tree Directory
 
 Audio_to_Base64/
